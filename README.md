@@ -424,6 +424,6 @@ npm run generate
 
 参考
 
-[iview](https://www.iviewui.com/components/modal)
-[官方文档](https://zh.nuxtjs.org/guide/views/#%E9%A1%B5%E9%9D%A2)
-[技术胖的 Nuxt.js](https://juejin.im/entry/5ab84d9b51882555770c7229)
+- [iview](https://www.iviewui.com/components/modal)
+- [官方文档](https://zh.nuxtjs.org/guide/views/#%E9%A1%B5%E9%9D%A2)
+- [技术胖的 Nuxt.js](https://juejin.im/entry/5ab84d9b51882555770c7229)
